@@ -381,6 +381,21 @@
    ],
    "classic": true,
    "date": "1888"
+  },
+  {
+   "id": "d13",
+   "title": "The Bird and the Cat",
+   "text": "I dreamt that I had a beautiful bird in a cage, and that the cage was placed on a table in a room where there was a cat. I took the bird out of the cage and put him on the table. Instantly the cat sprang upon him and seized him in her mouth. I threw myself upon her and strove to wrest away her prey, loading her with reproaches and bewailing the fate of my beautiful bird. Then suddenly some one said to me, \"You have only yourself to blame for this misfortune. While the bird remained in his cage he was safe. Why should you have taken him out before the eyes of the cat?\"",
+   "dreamer": "dreamer_848c2bf8",
+   "author": "Anna Kingsford",
+   "slot": 519,
+   "theme": "animals",
+   "themes": [
+    "abstract",
+    "nature"
+   ],
+   "classic": true,
+   "date": "1888"
   }
  ]
 }
