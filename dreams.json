@@ -1,4 +1,9 @@
 {
+ "source": {
+  "name": "Bella's Dream Library",
+  "description": "Dreams shared by the Dream Library community.",
+  "melon": false
+ },
  "themes": [
   {
    "key": "abstract",
