@@ -482,6 +482,21 @@
    ],
    "classic": true,
    "date": "1888"
+  },
+  {
+   "id": "d18",
+   "title": "The Laboratory Underground",
+   "text": "I dreamed that I found myself underground in a vault artificially lighted. Tables were ranged along the walls of the vault, and upon these tables were bound down the living bodies of half-dissected and mutilated animals. Scientific experts were busy at work on their victims with scalpel, hot iron and forceps. But, as I looked at the creatures lying bound before them, they no longer appeared to be mere rabbits, or hounds, for in each I saw a human shape, the shape of a man, with limbs and lineaments resembling those of their torturers, hidden within the outward form. And when they led into the place an old worn-out horse, crippled with age and long toil in the service of man, and bound him down, and lacerated his flesh with their knives, I saw the human form within him stir and writhe as though it were an unborn babe moving in its mother's womb. And I cried aloud--\"Wretches! you are tormenting an unborn man!\" But they heard not, nor could they see what I saw. Then they brought in a white rabbit, and thrust its eyes through with heated irons. And as I gazed, the rabbit seemed to me like a tiny infant, with human face, and hands which stretched themselves towards me in appeal, and lips which sought to cry for help in human accents. And I could bear no more, but broke forth into a bitter rain of tears, exclaiming--\"O blind! blind! not to see that you torture a child, the youngest of your own flesh and blood!\"\n\nAnd with that I woke, sobbing vehemently.\n\n--Paris, Feb. 2, 1880",
+   "dreamer": "dreamer_848c2bf8",
+   "author": "Anna Kingsford",
+   "slot": 176,
+   "theme": "nightmare",
+   "themes": [
+    "animals",
+    "grief"
+   ],
+   "classic": true,
+   "date": "1888"
   }
  ]
 }
