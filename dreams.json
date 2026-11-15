@@ -7,99 +7,123 @@
  "themes": [
   {
    "key": "abstract",
-   "label": "Abstract"
+   "label": "Abstract",
+   "family": "places"
   },
   {
    "key": "animals",
-   "label": "Animals"
-  },
-  {
-   "key": "chase",
-   "label": "Chase"
+   "label": "Animals",
+   "family": "beings"
   },
   {
    "key": "chaotic",
-   "label": "Chaotic"
+   "label": "Chaotic",
+   "family": "feelings"
+  },
+  {
+   "key": "chase",
+   "label": "Chase",
+   "family": "events"
   },
   {
    "key": "death",
-   "label": "Death"
+   "label": "Death",
+   "family": "fears"
   },
   {
    "key": "destruction",
-   "label": "Destruction"
+   "label": "Destruction",
+   "family": "events"
   },
   {
    "key": "euphoric",
-   "label": "Euphoric"
+   "label": "Euphoric",
+   "family": "feelings"
   },
   {
    "key": "falling",
-   "label": "Falling"
+   "label": "Falling",
+   "family": "events"
   },
   {
    "key": "family",
-   "label": "Family"
+   "label": "Family",
+   "family": "beings"
   },
   {
    "key": "fantasy",
-   "label": "Fantasy"
+   "label": "Fantasy",
+   "family": "places"
   },
   {
    "key": "flying",
-   "label": "Flying"
+   "label": "Flying",
+   "family": "events"
   },
   {
    "key": "grief",
-   "label": "Grief"
+   "label": "Grief",
+   "family": "feelings"
   },
   {
    "key": "insects",
-   "label": "Insects"
+   "label": "Insects",
+   "family": "beings"
   },
   {
    "key": "lucid",
-   "label": "Lucid"
+   "label": "Lucid",
+   "family": "events"
   },
   {
    "key": "nature",
-   "label": "Nature"
+   "label": "Nature",
+   "family": "places"
   },
   {
    "key": "nightmare",
-   "label": "Nightmare"
+   "label": "Nightmare",
+   "family": "fears"
   },
   {
    "key": "peaceful",
-   "label": "Peaceful"
+   "label": "Peaceful",
+   "family": "feelings"
   },
   {
    "key": "people",
-   "label": "People"
+   "label": "People",
+   "family": "beings"
   },
   {
    "key": "phobia",
-   "label": "Phobia"
+   "label": "Phobia",
+   "family": "fears"
   },
   {
    "key": "places",
-   "label": "Places"
+   "label": "Places",
+   "family": "places"
   },
   {
    "key": "recurring",
-   "label": "Recurring"
+   "label": "Recurring",
+   "family": "events"
   },
   {
    "key": "romantasy",
-   "label": "Romantasy"
+   "label": "Romantasy",
+   "family": "feelings"
   },
   {
    "key": "strange",
-   "label": "Strange"
+   "label": "Strange",
+   "family": "feelings"
   },
   {
    "key": "water",
-   "label": "Water"
+   "label": "Water",
+   "family": "places"
   }
  ],
  "signs": [
