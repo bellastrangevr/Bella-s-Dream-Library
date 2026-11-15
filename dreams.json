@@ -444,6 +444,21 @@
    ],
    "classic": true,
    "date": "1888"
+  },
+  {
+   "id": "d16",
+   "title": "A Lion in the Way",
+   "text": "Owing to the many and great difficulties thrown in my way, I had been seriously considering the advisability of withdrawing, if only for a time, from my course of medical study, when I received the following dream, which determined me to persevere:--\n\nI found myself on the same narrow, rugged, and precipitous path described in my last dream, and confronted by a lion. Afraid to pass him I turned and fled. On this the beast gave chase, when, finding escape by flight hopeless, I turned and boldly faced him. Whereupon the lion at once stopped and slunk to the side of the path, and suffered me to pass unmolested, though I was so close to him that I could not avoid touching him with my garments in passing.\n\n--Paris, Nov. 15, 1877",
+   "dreamer": "dreamer_848c2bf8",
+   "author": "Anna Kingsford",
+   "slot": 520,
+   "theme": "animals",
+   "themes": [
+    "recurring",
+    "chase"
+   ],
+   "classic": true,
+   "date": "1888"
   }
  ]
 }
