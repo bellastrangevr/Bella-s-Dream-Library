@@ -535,6 +535,21 @@
     "fantasy"
    ],
    "date": "2026-11-16"
+  },
+  {
+   "id": "d20",
+   "title": "A Haunted House Indeed!",
+   "text": "I dreamt that during a tour on the Continent with my friend C. we stayed in a town wherein there was an ancient house of horrible reputation, concerning which we received the following account. At the top of the house was a suite of rooms, from which no one who entered at night ever again emerged. No corpse was ever found; but it was said by some that the victims were absorbed bodily by the walls; by others that there were in the rooms a number of pictures in frames, one frame, however, containing a blank canvas, which had the dreadful power, first, of fascinating the beholder, and next of drawing him towards it, so that he was compelled to approach and gaze at it. Then, by the same hideous enchantment, he was forced to touch it, and the touch was fatal. For the canvas seized him as a devil-fish seizes its prey, and sucked him in, so that he perished without leaving a trace of himself, or of the manner of his death. The legend said further that if any person could succeed in passing a night in these rooms and in resisting their deadly influence, the spell would for ever be broken, and no one would thenceforth be sacrificed.\n\nHearing all this, and being somewhat of the knight-errant order,",
+   "dreamer": "dreamer_848c2bf8",
+   "author": "Anna Kingsford",
+   "slot": 152,
+   "theme": "places",
+   "themes": [
+    "nightmare",
+    "abstract"
+   ],
+   "classic": true,
+   "date": "1888"
   }
  ]
 }
